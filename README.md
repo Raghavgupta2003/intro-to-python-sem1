@@ -129,9 +129,5 @@ If you publish your fork or improvements, consider linking back to the original 
 
 ---
 
-## License
-
-If no explicit license file is present, treat this as a personal learning resource.  
-Before using it in a classroom or redistributing, please check with the original author on GitHub.
 
 
