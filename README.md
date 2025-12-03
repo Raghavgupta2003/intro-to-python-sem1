@@ -2,7 +2,9 @@
 
 This repository (`python-beginnings-sem1`) is a collection of small Python programs and examples intended for absolute beginners, typically for a first–semester introduction to programming in Python. The examples cover core language fundamentals: variables, data types, operators, conditionals, loops, functions, and basic string/list/tuple operations.
 
-Repository on GitHub: [`Raghavgupta2003/python-beginnings-sem1`](https://github.com/Raghavgupta2003/python-beginnings-sem1.git)
+Repository on GitHub: [`Raghavgupta2003/intro-to-python-sem1
+`](https://github.com/Raghavgupta2003/intro-to-python-sem1
+.git)
 
 ---
 
@@ -64,7 +66,8 @@ python3 --version
 1. **Clone the repository** (if you are using Git):
 
 ```bash
-git clone https://github.com/Raghavgupta2003/python-beginnings-sem1.git
+git clone https://github.com/Raghavgupta2003/intro-to-python-sem1
+.git
 cd python-beginnings-sem1
 ```
 
